@@ -1,0 +1,1 @@
+document.write("My birth year is 1990 \n Data type of my declared variable is number");
